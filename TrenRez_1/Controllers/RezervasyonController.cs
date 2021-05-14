@@ -58,10 +58,9 @@ namespace TrenRez_1.Controllers
 
             if (rezervasyon.RezervasyonYapilacakKisiSayisi <= toplamBosKoltuk)
             {
+                rezervasyonSonuc.RezervasyonYapilabilir = true;
                 if (rezervasyon.KisilerFarkliVagonlaraYerlestirilebilir==true)
                 {
-                    rezervasyonSonuc.RezervasyonYapilabilir = true;
-
                     if (rezervasyon.RezervasyonYapilacakKisiSayisi <= bosKoltukVagon[0])
                     {
                         rezervasyonSonuc.YerlesimAyrinti = new YerlesimAyrinti[1];
