@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrenRez_2", "TrenRez_1\TrenRez_2.csproj", "{99AA7F84-EEC8-4AB0-88C6-7E42A9A0EC03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99AA7F84-EEC8-4AB0-88C6-7E42A9A0EC03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99AA7F84-EEC8-4AB0-88C6-7E42A9A0EC03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99AA7F84-EEC8-4AB0-88C6-7E42A9A0EC03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99AA7F84-EEC8-4AB0-88C6-7E42A9A0EC03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C16F600D-74E2-48CB-86F6-3400B627319B}
+	EndGlobalSection
+EndGlobal
